@@ -1,6 +1,6 @@
 # Blog Page Template
 
-This project is a simple blog page template designed and developed using HTML, CSS, and JavaScript. The template aims to provide a user-friendly and responsive layout for creating and managing blog posts.
+This project is a simple blog page template designed and developed using HTML, CSS. The template aims to provide a user-friendly and responsive layout for creating and managing blog posts.
 
 
 ## Technologies Used:
@@ -13,5 +13,5 @@ This project is a simple blog page template designed and developed using HTML, C
 
 ## Live Link:
 
-View the live page [here](#).
+View the live page [here](https://ak586.github.io/blog-page-template/).
 
